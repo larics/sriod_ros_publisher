@@ -1,0 +1,6 @@
+<!-- sriod_navigation.launch -->
+<launch>
+    <!-- Launch sriod_scout_node -->
+    <node name="sriod_ros_publisher" pkg="sriod_ros_publisher" type="sriod_ros_publisher" output="screen" />
+</launch>
+
